@@ -1,4 +1,5 @@
-<img width="2535" height="380" alt="Capa" src="https://github.com/user-attachments/assets/a441f089-6a28-404b-8461-40c7dfc891a3" />
+<img width="2535" height="420" alt="Arthur cunha , camila pangrassio, gabriela cabral (43 391 x 18 cm) (2535 x 380 px) (2535 x 420 px)" src="https://github.com/user-attachments/assets/c29ab324-658f-4684-9c7d-8c1153ad1187" />
+
 
 <div align="center">
   
