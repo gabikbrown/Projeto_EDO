@@ -1,4 +1,4 @@
-![Imagem](capa.png)
+![Imagem](Capa.png)
 
 <div align="center">
   
