@@ -1,1 +1,1 @@
-# Descida-do-gradiente-como-m-todo-de-Euler
+# Projeto de Equações Diferenciais: 
