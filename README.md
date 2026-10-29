@@ -2,5 +2,6 @@
 
 
 <div align="center">
-Como a aplicação do método de Euler à descida do gradiente auxilia no treinamento de modelos de machine learning?
+  
+# Como a aplicação do método de Euler à descida do gradiente auxilia no treinamento de modelos de machine learning?
 </div>
