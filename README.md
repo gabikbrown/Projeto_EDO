@@ -2,7 +2,5 @@
 
 
 <div align="center">
-
-# Projeto de Equações Diferenciais: método de Euler aplicado à descida do gradiente
-## Por que a taxa de aprendizado não pode ser grande demais?
+Como a aplicação do método de Euler à descida do gradiente auxilia no treinamento de modelos de machine learning?
 </div>
