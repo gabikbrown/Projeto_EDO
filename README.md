@@ -1,4 +1,5 @@
-<img width="2535" height="380" alt="Sem nome (2535 x 380 px)" src="https://github.com/user-attachments/assets/86616a7b-968b-4ac8-a7b7-c91591cc43e4" />
+<img width="2535" height="470" alt="Capa" src="https://github.com/user-attachments/assets/30fc8bdb-b8e7-4e50-bd69-7756e66ec8c8" />
+
 
 
 
