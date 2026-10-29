@@ -1,4 +1,5 @@
-<img width="2535" height="470" alt="Capa_EDO" src="https://github.com/user-attachments/assets/1eeb72bc-4bfd-4c87-acd4-fd72dc438558" />
+<img width="2535" height="470" alt="CapaEDO" src="https://github.com/user-attachments/assets/2da7d92e-183d-4c36-b1e4-78909c77e9d5" />
+
 
 
 
