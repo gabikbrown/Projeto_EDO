@@ -72,7 +72,7 @@ MÉTODO de Euler. In: FÍSICA COMPUTACIONAL. Porto Alegre: UFRGS, [s.d.]. Dispon
 
 SHIEBLER, D. Gradient descent is Euler's method. **Dan Shiebler**, 28 nov. 2020. Disponível em: https://danshiebler.com/2020-11-28-gradient-descent/. 
 
-ANTHROPIC. **Claude Sonnet 5.5**. Modelo de linguagem de grande escala. [S. l.]: Anthropic, 2026. Disponível em: https://claude.ai. Acesso em: 13 nov. 2026.
+ANTHROPIC. **Claude Sonnet 5.5**. Modelo de linguagem de grande escala. [S. l.]: Anthropic, 2026. Disponível em: https://claude.ai. 
 
 ## Autores
 
