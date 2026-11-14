@@ -64,13 +64,15 @@ O notebook não grava arquivos: os gráficos aparecem na própria tela, e os dad
 
 ## Referências
 
-BOYD, S.; VANDENBERGHE, L. **Convex optimization**. Cambridge: Cambridge University Press, 2004. Disponível em: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf. Acesso em: 13 nov. 2026.
+BOYD, S.; VANDENBERGHE, L. **Convex optimization**. Cambridge: Cambridge University Press, 2004. Disponível em: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf. 
 
-GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. **Deep learning**. Cambridge: MIT Press, 2016. Disponível em: https://www.deeplearningbook.org/. Acesso em: 13 nov. 2026.
+GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. **Deep learning**. Cambridge: MIT Press, 2016. Disponível em: https://www.deeplearningbook.org/. .
 
-MÉTODO de Euler. In: FÍSICA COMPUTACIONAL. Porto Alegre: UFRGS, [s.d.]. Disponível em: https://fiscomp.if.ufrgs.br/index.php/M%C3%A9todo_de_Euler. Acesso em: 13 nov. 2026.
+MÉTODO de Euler. In: FÍSICA COMPUTACIONAL. Porto Alegre: UFRGS, [s.d.]. Disponível em: https://fiscomp.if.ufrgs.br/index.php/M%C3%A9todo_de_Euler. 
 
-SHIEBLER, D. Gradient descent is Euler's method. **Dan Shiebler**, 28 nov. 2020. Disponível em: https://danshiebler.com/2020-11-28-gradient-descent/. Acesso em: 13 nov. 2026.
+SHIEBLER, D. Gradient descent is Euler's method. **Dan Shiebler**, 28 nov. 2020. Disponível em: https://danshiebler.com/2020-11-28-gradient-descent/. 
+
+ANTHROPIC. **Claude Sonnet 5.5**. Modelo de linguagem de grande escala. [S. l.]: Anthropic, 2026. Disponível em: https://claude.ai. Acesso em: 13 nov. 2026.
 
 ## Autores
 
