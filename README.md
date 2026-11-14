@@ -74,7 +74,29 @@ SHIEBLER, D. Gradient descent is Euler's method. **Dan Shiebler**, 28 nov. 2020.
 
 ## Autores
 
-Arthur Cunha, Camila Pangrassio e Gabriela Cabral.
+<table>
+  <tr>
+     <td align="center">
+      <a href="https://github.com/gabikbrown">
+        <img src="https://github.com/gabikbrown.png" width="100" alt="Foto de Gabriela Cabral"><br>
+        <sub><b>Gabriela Cabral</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/acrsfloripa-prog">
+        <img src="https://github.com/acrsfloripa-prog.png" width="100" alt="Foto de Arthur Cunha"><br>
+        <sub><b>Arthur Cunha</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/camilapangrassio">
+        <img src="https://github.com/camilapangrassio.png" width="100" alt="Foto de Camila Pangrassio"><br>
+        <sub><b>Camila Pangrassio</b></sub>
+      </a>
+    </td>
+   
+  </tr>
+</table>
 
 ## Licença
 
